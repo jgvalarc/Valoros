@@ -1,4 +1,4 @@
-# Valoros - Income Expense Manager
+# Valoros - Finances Manager
 
 Valoros is a Django-based web application designed to help users manage their basic finances efficiently. Initially created as a full-stack learning project, the application is currently in early development.
 
